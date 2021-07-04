@@ -1,4 +1,6 @@
-import datetime
+'''Napisz program, który pobierze od użytkownika rok urodzenia, następnie obliczy 
+i wypisze wiek oraz wypisze informację, czy użytkownik jest pełnoletni.'''  
+
 import time
 
 birthYear = int(input("Podaj swoj rok urodzenia: "))
